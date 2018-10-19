@@ -1,0 +1,5 @@
+MYSQL = SwapnearMYSQL
+
+DB =   swapnear
+User   swapnearuser
+Pass   swapnearMYSQL#
